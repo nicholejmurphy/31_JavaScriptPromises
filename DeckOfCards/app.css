@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+div#btn {
+  text-align: center;
+}
+
+button#draw-btn {
+  color: white;
+  background-color: teal;
+  border-radius: 5%;
+  border: 0;
+  padding: 10px;
+  box-shadow: 2px 2px 3px 0.5px rgba(0, 0, 255, 0.2);
+  margin-bottom: 20px;
+}
+
+#card-div > img {
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+}
